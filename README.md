@@ -112,7 +112,8 @@
       height="30px"
       style="padding-right: 10px;" 
       src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" 
-   />
+   /></br>
+   
    <img align="left" 
       alt="java" 
       width="90px"

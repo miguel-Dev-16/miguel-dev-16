@@ -60,14 +60,15 @@
       height="30px"
       style="padding-right: 10px;" 
       src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" 
-   />
+   /></br>
+   
    <img align="left"
       alt="java"
       width="90px"
       height="30px"
       style="padding-right: 10px;" 
       src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" 
-   /></br>
+   />
    
    <img align="left"
       alt="java"

@@ -5,10 +5,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-pereira-86b71a143)
 
 </br>
+
 <img align="right" width="150" height="150px" alt="java" src="https://github.com/Miguel-ADS-86/Miguel-ADS-86/blob/main/Mgp.gif" />
-</br></br></br>
+
+</br></br></br></br></br>
 
 ## Linguagens e Tecnologias
+
 <div style="display: inline_block">
    <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
    <img align="center" alt="java" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
